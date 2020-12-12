@@ -1,0 +1,10 @@
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\bin\Debug\FormsExercicio4.exe.config
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\bin\Debug\FormsExercicio4.exe
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\bin\Debug\FormsExercicio4.pdb
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\obj\Debug\FormsExercicio4.csprojAssemblyReference.cache
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\obj\Debug\FormsExercicio4.frmCalculadoraDeAreaDeTriangulo.resources
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\obj\Debug\FormsExercicio4.Properties.Resources.resources
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\obj\Debug\FormsExercicio4.csproj.GenerateResource.cache
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\obj\Debug\FormsExercicio4.csproj.CoreCompileInputs.cache
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\obj\Debug\FormsExercicio4.exe
+E:\Projetos PRCA2\Windows forms\FormsExercicio4\FormsExercicio4\obj\Debug\FormsExercicio4.pdb
